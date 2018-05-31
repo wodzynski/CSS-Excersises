@@ -1,0 +1,12 @@
+body {
+    background: rgb(245, 255, 203);
+}
+
+#special {
+    background: rgb(229, 147, 147);
+}
+
+.completed {
+    /* background: rgb(151, 143, 255); */
+    text-decoration: line-through;
+}
